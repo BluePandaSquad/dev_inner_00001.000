@@ -19,15 +19,9 @@ namespace TestPRJ
         //      a (I) - object: object one
         //      b (I) - object: object two
         //returns: true - if equals, false - othersie
+        
+        //change!!!!!!
 
-        public bool ObjEquals(object a, object b)
-        {
-            if (a == null || b == null)
-            {
-                return false;
-            }
-            return a == b;
-        }
     }
 }
 
