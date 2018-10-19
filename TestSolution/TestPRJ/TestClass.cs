@@ -18,7 +18,6 @@ namespace TestPRJ
         //parameters:
         //      a (I) - object: object one
         //      b (I) - object: object two
-        //assumed variables: none
         //returns: true - if equals, false - othersie
 
         public bool ObjEquals(object a, object b)
